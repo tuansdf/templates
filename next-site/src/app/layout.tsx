@@ -2,8 +2,8 @@ import { PropsWithChildren } from "react";
 import "~/styles/index.scss";
 
 export const metadata = {
-  title: "Next Template",
-  description: "Next Template",
+  title: "Next Site",
+  description: "Next Site",
 };
 
 type Props = PropsWithChildren;
