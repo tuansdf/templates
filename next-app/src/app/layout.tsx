@@ -1,7 +1,7 @@
 import { PropsWithChildren } from "react";
+import "~/app/globals.scss";
 import { Providers } from "~/app/providers";
 import "~/env";
-import "~/styles/index.scss";
 
 export const metadata = {
   title: "Next App",
